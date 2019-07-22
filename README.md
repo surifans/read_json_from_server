@@ -1,0 +1,2 @@
+# read_json_from_server
+从服务器端读取json数据，然后显示在安卓界面上
